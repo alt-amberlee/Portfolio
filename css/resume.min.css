@@ -176,3 +176,15 @@ a:focus,
 a:hover {
     color: #824027
 }
+
+.btn-primary {
+    color: #fff;
+    background-color: #FFCCCC;
+    border-color: #343a40;
+}
+
+.flexWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
